@@ -23,3 +23,6 @@ Necesito tres ***asteriscos para que esté en negrita y cursiva a la vez***
 ![](imagenes/imagen1.jpg){width="376"}
 
 ![](images/328141801_2530219030459246_941091538540850873_n.jpg){width="393"}
+
+La página de New Dimensions es <https://www.dimensions.ai>\
+También puedes ingresar haciendo click [aquí](https://www.dimensions.ai).
